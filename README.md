@@ -2,11 +2,11 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIA-BOT)
 [![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/biharibabuhu)
 
 
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+# 𝚃𝙷𝙴 BIHARI PIKA OP
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
