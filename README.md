@@ -9,8 +9,8 @@
 # 𝚃𝙷𝙴 BIHARI PIKA OP
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/bihari_pika_bot_support THANKS FOR VISITING OUR REPO💖
+[![BIHARI PIKA OP](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/bihari_pika_bot_support)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -19,7 +19,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P.
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/bihari_pika_bot_support">☢️JOIN BIHARI PIKA OP BOT SUPPORT☢️</a></h2>
 
 </details>
 
@@ -110,7 +110,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 biharibabuhu
 
 Poject [BIHARI PIKA OP BOT ](https://github.com/mafiapikachu/biharipikaop) is free software: you can redistribute it and/or modify
 
