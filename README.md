@@ -112,7 +112,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 Copyright (C) 2021 H1M4N5HU0P
 
-Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
+Poject [BIHARI PIKA OP BOT ](https://github.com/mafiapikachu/biharipikaop) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
